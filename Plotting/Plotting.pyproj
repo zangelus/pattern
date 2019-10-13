@@ -30,6 +30,12 @@
     <Compile Include="NormalDistribution.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ScatterPlot3d.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ScatterPlot3dColor.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="SimplerNormalDistribution.py" />
     <Compile Include="Plotting.py" />
     <Compile Include="Sinusoidal.py">
